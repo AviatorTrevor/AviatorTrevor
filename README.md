@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AviatorTrevor
+- 👀 I’m interested in aviation
+- 🌱 I’m currently learning 3D modeling/printing. I'm a C++ developer at my job.
