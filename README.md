@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AviatorTrevor
 - 👀 I’m interested in aviation
-- 🌱 I’m currently learning 3D modeling/printing. I'm a C++ developer at my job.
+- 🌱 I like automation projects in my spare time. I formerly was a C++ developer for a military contractor. I am a 737 pilot now.
